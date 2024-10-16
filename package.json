@@ -1,0 +1,27 @@
+{
+  "name": "countroutes",
+  "version": "0.0.1",
+  "description": "QGIS counroutes plagin information page",
+  "main": "index.html",
+  "scripts": {
+    "test": "try",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopgraph/loopgraph.github.io.git"
+  },
+  "keywords": [
+    "countroutes"
+  ],
+  "author": "Pavel Minin",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/loopgraph/loopgraph.github.io/issues"
+  },
+  "homepage": "https://github.com/loopgraph/loopgraph.github.io",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
