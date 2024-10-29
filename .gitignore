@@ -7,8 +7,6 @@
 /.vscode/
 /docs/.vitepress/cache
 /packages/vite/LICENSE
-/public/build
-build
 dist
 dist-ssr
 explorations

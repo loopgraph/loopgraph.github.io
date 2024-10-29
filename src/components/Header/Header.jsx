@@ -4,13 +4,11 @@ import styled from 'styled-components'
 const HeaderContainer = styled.header`
     border: 1px solid #d6dde2; 
     height: 110px;
-    // background:#fff; 
     width: 625px;
     padding: 5px;
     background: url("../src/images/bg_header1.jpg") center center no-repeat scroll;
 `
 const DivContainer = styled.div`
-    // background:#fff; 
     width: 100%;
     height: 100%
     margin: 5px;
