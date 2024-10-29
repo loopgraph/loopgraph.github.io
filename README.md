@@ -1,8 +1,6 @@
-# React + Vite
+# countroutes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **countroutes** plugin is used in QGIS (free and open-source geographic information system) and allows users to analyze a network and build routes based on vector and raster data. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Currently implemented algorithms:
+- **Bottleneck Quest** enables to find line sections with two endpoints connecting network circle segments, blind pass branches.
