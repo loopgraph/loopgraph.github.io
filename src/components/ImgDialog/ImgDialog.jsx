@@ -12,13 +12,13 @@ export default function ImgDialog({ open, onCloseClick }) {
     }
     const imgData = {
         1: {
-            src: "../src/images/Murano.jpg",
+            src: "/Murano.jpg",
             alt: "Murano",
             width: 340,
             height: 320,
         },
         2: {
-            src: "../src/images/Borges_Labyrinth_H.jpg",
+            src: "/Borges_Labyrinth_H.jpg",
             alt: "Borges Labyrinth",
             width: 340,
             height: 260,
@@ -41,7 +41,7 @@ export default function ImgDialog({ open, onCloseClick }) {
                         <>
                             <div style={{ float: "right"}}>
                                 <img 
-                                    src="../src/images/x_square.svg" 
+                                    src="/x_square.svg" 
                                     alt="Close" 
                                     width={"10"}
                                     height={"10"}

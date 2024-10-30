@@ -6,7 +6,7 @@ const HeaderContainer = styled.header`
     height: 110px;
     width: 625px;
     padding: 5px;
-    background: url("../src/images/bg_header1.jpg") center center no-repeat scroll;
+    background: url("/bg_header1.jpg") center center no-repeat scroll;
 `
 const DivContainer = styled.div`
     width: 100%;

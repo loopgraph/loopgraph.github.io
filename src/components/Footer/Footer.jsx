@@ -7,7 +7,7 @@ const FooterContainer = styled.footer`
     // margin-top: 0px;
     padding: 5px;
     clear: both;
-    background: url("../src/images/bg_footer1.jpg") center center no-repeat scroll;
+    background: url("/bg_footer1.jpg") center center no-repeat scroll;
 `
 const DivContainer = styled.div`
     width: 100%;

@@ -19,7 +19,7 @@ export default function MainPage() {
             <mstyle.centralSection>
                 <mstyle.h3Container>
                     <mstyle.imgIconContainer 
-                        src="../src/images/icon_find_narrow.svg" 
+                        src="/icon_find_narrow.svg" 
                         width={"20px"} 
                         height={"20px"} />
                     {captions.cap1}
@@ -50,7 +50,7 @@ export default function MainPage() {
                         className="mapimg"
                     /> */}
                     <Pictogram 
-                        src="../src/images/Murano.jpg" 
+                        src="/Murano.jpg" 
                         alt="Murano" 
                         width={"160"}
                         height={"150"}
@@ -62,7 +62,7 @@ export default function MainPage() {
             <mstyle.rightFooterSection>
                 <mstyle.imgCaption>
                     <Pictogram 
-                        src="../src/images/Borges_Labyrinth_H.jpg" 
+                        src="/Borges_Labyrinth_H.jpg" 
                         alt="Borges Labyrinth" 
                         width={"147"}
                         height={"113"}
